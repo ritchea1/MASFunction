@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 PACKAGE_URL = 'git+https://github.com/<path_to_repository>@'
 
 
-class HelloWorld(BaseTransformer):
+class AIModelDesign(BaseTransformer):
     '''
     The docstring of the function will show as the function description in the UI.
     '''
